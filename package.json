@@ -1,0 +1,9 @@
+{
+  "name": "lru-cache",
+  "version": "1.0.0",
+  "description": "LRU Cache implementation",
+  "type": "module",
+  "scripts": {
+    "demo": "node src/demo.js"
+  }
+}
