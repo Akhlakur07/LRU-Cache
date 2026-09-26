@@ -2,6 +2,4 @@ AI tool used: ChatGPT
 
 1. How do I implement an LRU Cache with capacity, get(key), and put(key, value) in JavaScript? The get and put operations should be average O(1).
 
-2. I ran npm init -y, but npm run demo says “Missing script: demo”. How do I fix package.json?
-
-3. Write the README for this JavaScript LRU Cache project, including setup, run instructions, data structure explanation, LRU ordering, and time/space complexity.
+2. Write the README for this JavaScript LRU Cache project, including setup, run instructions, data structure explanation, LRU ordering, and time/space complexity.
